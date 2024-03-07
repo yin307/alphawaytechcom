@@ -1,0 +1,87 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 05:22:06
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.33                                |8.2.15
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.2.15 | SAPI: fpm-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.58 (Amazon Linux)
+DOC ROOT____________: "/var/www/html/alphawaytech"
+REQUEST URL_________: "http://3.26.117.182"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+GET DUPLICATOR VERSION ON CURRENT DATABASE FAILED. OVERWRITE VERSION NOT FOUND
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/var/www/html/alphawaytech"
+URL_NEW_____________: "http://3.26.117.182"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/var/www/html/alphawaytech/20230911_alphawaytechnologyjointstock_[HASH]_20230915031012_archive.zip"
+ARCHIVE SIZE________: 2.56MB
+CREATED_____________: 2023-09-15 03:10:12
+WP VERSION__________: 6.3.1
+DUP VERSION_________: 1.5.5.1
+LICENSE_____________: Free version
+DB VERSION__________: 10.6.15
+DB FILE SIZE________: 7.33MB
+DB TABLES___________: 55
+DB ROWS_____________: 19873
+URL HOME____________: https://alphawaytech.cani.digital
+URL CORE____________: https://alphawaytech.cani.digital
+URL CONTENT_________: https://alphawaytech.cani.digital/wp-content
+URL UPLOAD__________: https://alphawaytech.cani.digital/wp-content/uploads
+URL PLUGINS_________: https://alphawaytech.cani.digital/wp-content/plugins
+URL MU PLUGINS______: https://alphawaytech.cani.digital/wp-content/mu-plugins
+URL THEMES__________: https://alphawaytech.cani.digital/wp-content/themes
+PATH HOME___________: /home/canidigi/alphawaytech
+PATH ABS____________: /home/canidigi/alphawaytech
+PATH WPCONFIG_______: /home/canidigi/alphawaytech
+PATH WPCONTENT______: /home/canidigi/alphawaytech/wp-content
+PATH UPLOADS________: /home/canidigi/alphawaytech/wp-content/uploads
+PATH PLUGINS________: /home/canidigi/alphawaytech/wp-content/plugins
+PATH MUPLUGINS______: /home/canidigi/alphawaytech/wp-content/mu-plugins
+PATH THEMES_________: /home/canidigi/alphawaytech/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "alphawaytech.cani.digital/"
+
+PLUGINS
+PLUGIN [SLUG:advanced-custom-fields-pro/acf.php                ][ON:true ]  Advanced Custom Fields PRO
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ]  Contact Form 7
+PLUGIN [SLUG:contact-form-7-multilingual/plugin.php            ][ON:true ]  Contact Form 7 Multilingual
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:litespeed-cache/litespeed-cache.php               ][ON:false]  LiteSpeed Cache
+PLUGIN [SLUG:google-site-kit/google-site-kit.php               ][ON:true ]  Site Kit by Google
+PLUGIN [SLUG:wp-mail-smtp/wp_mail_smtp.php                     ][ON:true ]  WP Mail SMTP
+PLUGIN [SLUG:sitepress-multilingual-cms/sitepress.php          ][ON:true ]  WPML Multilingual CMS
+PLUGIN [SLUG:wp-seo-multilingual/plugin.php                    ][ON:true ]  WPML SEO
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ]  Yoast SEO
+PLUGIN [SLUG:maintenance.php                                   ][ON:false]  maintenance.php
+
+********************************************************************************
+SECURE CHECK -> GO TO SECURE PAGE
+LOG-TIME[/var/www/html/alphawaytech/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.02881]  MESSAGE:END RENDER PAGE
+LOG-TIME[/var/www/html/alphawaytech/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [pwdcheck] START
+AJAX ACTION [pwdcheck] SUCCESS
+-------------------------
+
+LOG-TIME[/var/www/html/alphawaytech/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+STEP ACTION: "initialized"
+LOG-TIME[/var/www/html/alphawaytech/dup-installer/ctrls/ctrl.base.php:227][DELTA:   5.02443]  MESSAGE:END RENDER PAGE

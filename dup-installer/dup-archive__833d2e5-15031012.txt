@@ -1,0 +1,852 @@
+{
+    "dup_type": "lite",
+    "created": "2023-09-15 03:10:12",
+    "version_dup": "1.5.5.1",
+    "version_wp": "6.3.1",
+    "version_db": "10.6.15",
+    "version_php": "7.4.33",
+    "version_os": "Linux",
+    "blogname": "ALPHAWAY TECHNOLOGY JOINT STOCK COMPANY",
+    "exportOnlyDB": 1,
+    "secure_on": true,
+    "secure_pass": "$2a$08$H2pd\/194arRPIm2PY5dv0.Lop7ha.q41yE27Jzx7FsdN\/iVnbVJwC",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "alphawaytech.cani.digital",
+            "path": "\/",
+            "blogname": "ALPHAWAY TECHNOLOGY JOINT STOCK COMPANY",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "admin",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/alphawaytech.cani.digital",
+            "fullSiteUrl": "https:\/\/alphawaytech.cani.digital",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/canidigi\/alphawaytech\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/canidigi\/alphawaytech\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/alphawaytech.cani.digital\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4",
+            "latin1"
+        ],
+        "collationList": [
+            "latin1_swedish_ci",
+            "utf8mb4_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "MyISAM",
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "canidigi_alphaway",
+        "tablesBaseCount": 55,
+        "tablesFinalCount": 55,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 19873,
+        "tablesSizeOnDisk": 7683042,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 17,
+                "insertedRows": 17,
+                "size": 24564
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 3100
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 9284
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 49,
+                "insertedRows": 49,
+                "size": 7868
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 30152
+            },
+            "wp_icl_background_task": {
+                "inaccurateRows": 132,
+                "insertedRows": 132,
+                "size": 13712
+            },
+            "wp_icl_content_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_icl_core_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_icl_flags": {
+                "inaccurateRows": 65,
+                "insertedRows": 65,
+                "size": 4388
+            },
+            "wp_icl_languages": {
+                "inaccurateRows": 65,
+                "insertedRows": 65,
+                "size": 11316
+            },
+            "wp_icl_languages_translations": {
+                "inaccurateRows": 4225,
+                "insertedRows": 4225,
+                "size": 227984
+            },
+            "wp_icl_locale_map": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 2088
+            },
+            "wp_icl_message_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_icl_node": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_icl_reminders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_icl_strings": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_icl_string_positions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_icl_string_status": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_icl_string_translations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_icl_translate": {
+                "inaccurateRows": 295,
+                "insertedRows": 295,
+                "size": 524152
+            },
+            "wp_icl_translate_job": {
+                "inaccurateRows": 37,
+                "insertedRows": 37,
+                "size": 6976
+            },
+            "wp_icl_translations": {
+                "inaccurateRows": 1746,
+                "insertedRows": 1746,
+                "size": 251188
+            },
+            "wp_icl_translation_batches": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 2672
+            },
+            "wp_icl_translation_downloads": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_icl_translation_status": {
+                "inaccurateRows": 717,
+                "insertedRows": 717,
+                "size": 278248
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_litespeed_img_optm": {
+                "inaccurateRows": 295,
+                "insertedRows": 295,
+                "size": 36352
+            },
+            "wp_litespeed_img_optming": {
+                "inaccurateRows": 1453,
+                "insertedRows": 1453,
+                "size": 200128
+            },
+            "wp_litespeed_url": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_litespeed_url_file": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_options": {
+                "inaccurateRows": 526,
+                "insertedRows": 526,
+                "size": 1667208
+            },
+            "wp_pmxi_files": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_pmxi_hash": {
+                "inaccurateRows": 73,
+                "insertedRows": 73,
+                "size": 16384
+            },
+            "wp_pmxi_history": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_pmxi_images": {
+                "inaccurateRows": 19,
+                "insertedRows": 20,
+                "size": 16384
+            },
+            "wp_pmxi_imports": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_pmxi_posts": {
+                "inaccurateRows": 73,
+                "insertedRows": 73,
+                "size": 16384
+            },
+            "wp_pmxi_templates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 5879,
+                "insertedRows": 5879,
+                "size": 1946336
+            },
+            "wp_posts": {
+                "inaccurateRows": 1752,
+                "insertedRows": 1752,
+                "size": 1714144
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_terms": {
+                "inaccurateRows": 130,
+                "insertedRows": 130,
+                "size": 40544
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 654,
+                "insertedRows": 654,
+                "size": 48676
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 130,
+                "insertedRows": 130,
+                "size": 15800
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 74,
+                "insertedRows": 74,
+                "size": 25912
+            },
+            "wp_users": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 8316
+            },
+            "wp_wpmailsmtp_debug_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_wpmailsmtp_tasks_meta": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 2312
+            },
+            "wp_yoast_indexable": {
+                "inaccurateRows": 296,
+                "insertedRows": 296,
+                "size": 211276
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "inaccurateRows": 294,
+                "insertedRows": 294,
+                "size": 32026
+            },
+            "wp_yoast_migrations": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 9792
+            },
+            "wp_yoast_primary_term": {
+                "inaccurateRows": 75,
+                "insertedRows": 75,
+                "size": 12092
+            },
+            "wp_yoast_seo_links": {
+                "inaccurateRows": 759,
+                "insertedRows": 759,
+                "size": 139332
+            }
+        },
+        "varLowerCaseTables": "0",
+        "dbEngine": "MariaDB",
+        "version": "10.6.15",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 10,
+        "packageName": "20230911_alphawaytechnologyjointstock",
+        "packageHash": "833d2e5-15031012",
+        "secondaryHash": "edeb02e-15031012"
+    },
+    "fileInfo": {
+        "dirCount": 0,
+        "fileCount": 0,
+        "size": 839694
+    },
+    "wpInfo": {
+        "version": "6.3.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/canidigi\/alphawaytech",
+        "targetPaths": [
+            "\/home\/canidigi\/alphawaytech"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "admin",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/canidigi\/alphawaytech\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "F+,WJv0^PH|TFs2-imWur7)T]r_9 GT5k)0E|:70V?*>NPUxD7{y|IDk$D.uG5-]",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "M(}Hpyxu7ytY`Yx6xh*Ye3`A+E$Y:9L,^`8WJD[Y uhr2KM.^]BMd4tIk0rC[tI@",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "S%R4Er9Wy69FF|n>r-p2g.s@$p<C{7;[v7U@-P`}2pC3%,##n&Yq48tqZ=V#l_$(",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "In~v)6v{Mtsq5GVo5TXtwe!y-k\/KBw{$y[7qrKm-4()sHw2(@?L=Lmv&xo! y) H",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "UuPcxpLq$t.f\/3[pd4q&?ppO!q]ruj=^3Q)TnqfIdIhub}lSejDZ]T9T^PhOf;UH",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "RTz$f~bW!H-q>x{p)1L1aqQiR^72aCVsN L[Qzo~UO&{iEfB2|)1H@)jp.q(O%hm",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "f%97.qHsxLPSsvgQ[Z5pnlhakzNhkCc^`S`.&0$5m~Uu%7u*Ag1;N{fk49[ma$L~",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "4-Wbv:h%w.A-EW9:AJe*Btp%e2(x2xJDf]^U{<:{nOLbcy2U]zd-qNQz$4gO#53<",
+                    "inWpConfig": true
+                },
+                "WP_SITEURL": {
+                    "value": "https:\/\/alphawaytech.cani.digital\/",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/canidigi\/alphawaytech\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/alphawaytech.cani.digital\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/canidigi\/alphawaytech\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/alphawaytech.cani.digital\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": 3,
+                    "inWpConfig": true
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": true
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/canidigi\/alphawaytech\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/canidigi\/alphawaytech\/wp-content\/themes\/flatsome",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/canidigi\/alphawaytech\/wp-content\/themes\/flatsome",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/canidigi\/alphawaytech\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/alphawaytech.cani.digital\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/alphawaytech.cani.digital",
+                "homeUrl": "https:\/\/alphawaytech.cani.digital",
+                "loginUrl": "https:\/\/alphawaytech.cani.digital\/wp-login.php",
+                "contentUrl": "https:\/\/alphawaytech.cani.digital\/wp-content",
+                "uploadBaseUrl": "https:\/\/alphawaytech.cani.digital\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/alphawaytech.cani.digital\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/alphawaytech.cani.digital\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/alphawaytech.cani.digital\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/canidigi\/alphawaytech",
+                    "abs": "\/home\/canidigi\/alphawaytech",
+                    "wpconfig": "\/home\/canidigi\/alphawaytech",
+                    "wpcontent": "\/home\/canidigi\/alphawaytech\/wp-content",
+                    "uploads": "\/home\/canidigi\/alphawaytech\/wp-content\/uploads",
+                    "plugins": "\/home\/canidigi\/alphawaytech\/wp-content\/plugins",
+                    "muplugins": "\/home\/canidigi\/alphawaytech\/wp-content\/mu-plugins",
+                    "themes": "\/home\/canidigi\/alphawaytech\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/canidigi\/alphawaytech",
+                    "abs": "\/home\/canidigi\/alphawaytech",
+                    "wpconfig": "\/home\/canidigi\/alphawaytech",
+                    "wpcontent": "\/home\/canidigi\/alphawaytech\/wp-content",
+                    "uploads": "\/home\/canidigi\/alphawaytech\/wp-content\/uploads",
+                    "plugins": "\/home\/canidigi\/alphawaytech\/wp-content\/plugins",
+                    "muplugins": "\/home\/canidigi\/alphawaytech\/wp-content\/mu-plugins",
+                    "themes": "\/home\/canidigi\/alphawaytech\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "advanced-custom-fields-pro\/acf.php": {
+                "slug": "advanced-custom-fields-pro\/acf.php",
+                "name": "Advanced Custom Fields PRO",
+                "version": "5.11.4",
+                "pluginURI": "https:\/\/www.advancedcustomfields.com",
+                "author": "Delicious Brains",
+                "authorURI": "https:\/\/www.advancedcustomfields.com",
+                "description": "Customize WordPress with powerful, professional and intuitive fields.",
+                "title": "Advanced Custom Fields PRO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "contact-form-7\/wp-contact-form-7.php": {
+                "slug": "contact-form-7\/wp-contact-form-7.php",
+                "name": "Contact Form 7",
+                "version": "5.7.7",
+                "pluginURI": "https:\/\/contactform7.com\/",
+                "author": "Takayuki Miyoshi",
+                "authorURI": "https:\/\/ideasilo.wordpress.com\/",
+                "description": "Just another contact form plugin. Simple but flexible.",
+                "title": "Contact Form 7",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "contact-form-7-multilingual\/plugin.php": {
+                "slug": "contact-form-7-multilingual\/plugin.php",
+                "name": "Contact Form 7 Multilingual",
+                "version": "1.2.1",
+                "pluginURI": "",
+                "author": "OnTheGoSystems",
+                "authorURI": "http:\/\/www.onthegosystems.com\/",
+                "description": "Make forms from Contact Form 7 translatable with WPML | <a href=\"https:\/\/wpml.org\/documentation\/plugins-compatibility\/using-contact-form-7-with-wpml\/\">Documentation<\/a>",
+                "title": "Contact Form 7 Multilingual",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.5.1",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "litespeed-cache\/litespeed-cache.php": {
+                "slug": "litespeed-cache\/litespeed-cache.php",
+                "name": "LiteSpeed Cache",
+                "version": "5.5.1",
+                "pluginURI": "https:\/\/www.litespeedtech.com\/products\/cache-plugins\/wordpress-acceleration",
+                "author": "LiteSpeed Technologies",
+                "authorURI": "https:\/\/www.litespeedtech.com",
+                "description": "High-performance page caching and site optimization from LiteSpeed",
+                "title": "LiteSpeed Cache",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "google-site-kit\/google-site-kit.php": {
+                "slug": "google-site-kit\/google-site-kit.php",
+                "name": "Site Kit by Google",
+                "version": "1.108.0",
+                "pluginURI": "https:\/\/sitekit.withgoogle.com",
+                "author": "Google",
+                "authorURI": "https:\/\/opensource.google.com",
+                "description": "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.",
+                "title": "Site Kit by Google",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-mail-smtp\/wp_mail_smtp.php": {
+                "slug": "wp-mail-smtp\/wp_mail_smtp.php",
+                "name": "WP Mail SMTP",
+                "version": "3.8.2",
+                "pluginURI": "https:\/\/wpmailsmtp.com\/",
+                "author": "WP Mail SMTP",
+                "authorURI": "https:\/\/wpmailsmtp.com\/",
+                "description": "Reconfigures the <code>wp_mail()<\/code> function to use Gmail\/Mailgun\/SendGrid\/SMTP instead of the default <code>mail()<\/code> and creates an options page to manage the settings.",
+                "title": "WP Mail SMTP",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "sitepress-multilingual-cms\/sitepress.php": {
+                "slug": "sitepress-multilingual-cms\/sitepress.php",
+                "name": "WPML Multilingual CMS",
+                "version": "4.6.4",
+                "pluginURI": "https:\/\/wpml.org\/",
+                "author": "OnTheGoSystems",
+                "authorURI": "http:\/\/www.onthegosystems.com\/",
+                "description": "WPML Multilingual CMS | <a href=\"https:\/\/wpml.org\">Documentation<\/a> | <a href=\"https:\/\/wpml.org\/version\/wpml-4-6-4\/\">WPML 4.6.4 release notes<\/a>",
+                "title": "WPML Multilingual CMS",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-seo-multilingual\/plugin.php": {
+                "slug": "wp-seo-multilingual\/plugin.php",
+                "name": "WPML SEO",
+                "version": "2.0.1",
+                "pluginURI": "https:\/\/wpml.org\/",
+                "author": "OnTheGoSystems",
+                "authorURI": "http:\/\/www.onthegosystems.com\/",
+                "description": "Multilingual support for popular SEO plugins",
+                "title": "WPML SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo\/wp-seo.php": {
+                "slug": "wordpress-seo\/wp-seo.php",
+                "name": "Yoast SEO",
+                "version": "21.1",
+                "pluginURI": "https:\/\/yoa.st\/1uj",
+                "author": "Team Yoast",
+                "authorURI": "https:\/\/yoa.st\/1uk",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "maintenance.php": {
+                "slug": "maintenance.php",
+                "name": "maintenance.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            }
+        },
+        "themes": {
+            "flatsome": {
+                "slug": "flatsome",
+                "themeName": "Flatsome",
+                "version": "3.14.3.86",
+                "themeURI": "http:\/\/flatsome.uxthemes.com\/",
+                "parentTheme": false,
+                "template": "flatsome",
+                "stylesheet": "flatsome",
+                "description": "Multi-Purpose Responsive WooCommerce Theme",
+                "author": "UX-Themes",
+                "authorURI": "http:\/\/www.uxthemes.com\/",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.0",
+                "themeURI": "https:\/\/github.com\/wordpress\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Full Site Editing features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "ALPHAWAY TECHNOLOGY JOINT STOCK COMPANY"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20230911_alphawaytechnologyjointstock_833d2e5b511b9e864047_20230915031012_installer-backup.php",
+    "package_name": "20230911_alphawaytechnologyjointstock_833d2e5b511b9e864047_20230915031012_archive.zip",
+    "package_hash": "833d2e5-15031012",
+    "package_notes": ""
+}

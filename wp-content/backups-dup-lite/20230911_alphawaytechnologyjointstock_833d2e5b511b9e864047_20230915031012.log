@@ -1,0 +1,72 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 15 September, 2023 3:10 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.5.1
+WORDPRESS:	6.3.1
+PHP INFO:	7.4.33 | SAPI: litespeed
+SERVER:		LiteSpeed 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 11MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230911_alphawaytechnologyjointstock_833d2e5b511b9e864047_20230915031012_database.sql
+SQL FILE SIZE: 5.51MB (5781577)
+SQL FILE TIME: 2023-09-15 03:10:27
+SQL RUNTIME: 0.74 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/canidigi/alphawaytech
+ARCHIVE FILE: 20230911_alphawaytechnologyjointstock_833d2e5b511b9e864047_20230915031012_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0
+SQL ADDED: 20230911_alphawaytechnologyjointstock_833d2e5b511b9e864047_20230915031012_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => /home/canidigi/alphawaytech/wp-content/backups-dup-lite/tmp/20230911_alphawaytechnologyjointstock_833d2e5b511b9e864047_20230915031012_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 0
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 820.01KB
+ARCHIVE RUNTIME: 0.25 sec.
+MEMORY STACK: 11MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 5.51MB
+INSTALLER FILE: 73.49KB
+ARCHIVE FILE: 2.56MB 
+EXPECTED FILE/DIRECTORY COUNT: 0
+ACTUAL FILE/DIRECTORY COUNT: 0
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[10]
+TOTAL PROCESS RUNTIME: 2.03 sec.
+PEAK PHP MEMORY USED: 13MB
+DONE PROCESSING => 20230911_alphawaytechnologyjointstock 15 September, 2023 3:10 am
+

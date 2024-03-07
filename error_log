@@ -1,0 +1,120 @@
+[10-Oct-2021 09:00:18 UTC] PHP Warning:  Use of undefined constant ‘post_type_link’ - assumed '‘post_type_link’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 27
+[10-Oct-2021 09:00:18 UTC] PHP Warning:  Use of undefined constant ‘ah_remove_custom_post_type_slug’ - assumed '‘ah_remove_custom_post_type_slug’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 27
+[10-Oct-2021 09:00:18 UTC] PHP Warning:  Use of undefined constant ‘pre_get_posts’ - assumed '‘pre_get_posts’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 48
+[10-Oct-2021 09:00:18 UTC] PHP Warning:  Use of undefined constant ‘ah_parse_request_tricksy’ - assumed '‘ah_parse_request_tricksy’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 48
+[10-Oct-2021 09:01:35 UTC] PHP Warning:  Use of undefined constant ‘post_type_link’ - assumed '‘post_type_link’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 27
+[10-Oct-2021 09:01:35 UTC] PHP Warning:  Use of undefined constant ‘ah_remove_custom_post_type_slug’ - assumed '‘ah_remove_custom_post_type_slug’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 27
+[10-Oct-2021 09:01:35 UTC] PHP Warning:  Use of undefined constant ‘pre_get_posts’ - assumed '‘pre_get_posts’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 48
+[10-Oct-2021 09:01:35 UTC] PHP Warning:  Use of undefined constant ‘ah_parse_request_tricksy’ - assumed '‘ah_parse_request_tricksy’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 48
+[10-Oct-2021 09:02:20 UTC] PHP Warning:  Use of undefined constant ‘post_type_link’ - assumed '‘post_type_link’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 27
+[10-Oct-2021 09:02:20 UTC] PHP Warning:  Use of undefined constant ‘ah_remove_custom_post_type_slug’ - assumed '‘ah_remove_custom_post_type_slug’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 27
+[10-Oct-2021 09:02:20 UTC] PHP Warning:  Use of undefined constant ‘pre_get_posts’ - assumed '‘pre_get_posts’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 48
+[10-Oct-2021 09:02:20 UTC] PHP Warning:  Use of undefined constant ‘ah_parse_request_tricksy’ - assumed '‘ah_parse_request_tricksy’' (this will throw an Error in a future version of PHP) in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 48
+[15-Jul-2023 03:45:04 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[15-Jul-2023 03:45:04 UTC] Cron unschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[15-Jul-2023 03:45:11 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[15-Jul-2023 03:45:11 UTC] Cron unschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[15-Jul-2023 03:45:41 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[15-Jul-2023 03:45:41 UTC] Cron unschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[15-Jul-2023 03:45:55 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[19-Jul-2023 10:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-cron.php(46): require_once('/home/canidigi/...')
+#4 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:40:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:40:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:42:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-cron.php(46): require_once('/home/canidigi/...')
+#4 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:42:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[19-Jul-2023 10:44:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php:121
+Stack trace:
+#0 /home/canidigi/alphawaytech/wp-settings.php(591): include()
+#1 /home/canidigi/alphawaytech/wp-config.php(102): require_once('/home/canidigi/...')
+#2 /home/canidigi/alphawaytech/wp-load.php(50): require_once('/home/canidigi/...')
+#3 /home/canidigi/alphawaytech/wp-blog-header.php(13): require_once('/home/canidigi/...')
+#4 /home/canidigi/alphawaytech/index.php(17): require('/home/canidigi/...')
+#5 {main}
+  thrown in /home/canidigi/alphawaytech/wp-content/themes/flatsome/functions.php on line 121
+[20-Jul-2023 06:01:14 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/canidigi/alphawaytech/wp-content/maintenance.php on line 16
+[20-Jul-2023 06:01:14 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/canidigi/alphawaytech/wp-content/maintenance.php on line 17
+[20-Jul-2023 06:01:14 UTC] PHP Warning:  Cannot modify header information - headers already sent in /home/canidigi/alphawaytech/wp-content/maintenance.php on line 18
+[11-Sep-2023 20:42:35 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}

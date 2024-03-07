@@ -1,0 +1,523 @@
+{
+    "RPT": {
+        "ScanTime": "0.08 sec.",
+        "ScanFile": "20230911_alphawaytechnologyjointstock_833d2e5b511b9e864047_20230915031012_scan.json",
+        "Warnings": 0,
+        "Success": 6
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true
+        },
+        "SYS": {
+            "managedHost": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/canidigi\/alphawaytech\/.opcache",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/ai1wm-backups",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/backups-dup-lite",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/backups-dup-pro",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/backupwordpress",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/bps-backup",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/cache",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/content\/cache",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/contents\/cache",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/infinitewp\/backups",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/managewp\/backups",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/old-cache",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/updraft",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/snapshots",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/sucuri",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/wp-clone",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/wfcache",
+            "\/home\/canidigi\/alphawaytech\/wp-content\/wishlist-backup",
+            "\/home\/canidigi\/alphawaytech\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "\/home\/canidigi\/alphawaytech\/.htaccess",
+            "\/home\/canidigi\/alphawaytech\/wp-config.php",
+            "\/home\/canidigi\/alphawaytech\/.htaccess",
+            "\/home\/canidigi\/alphawaytech\/web.config",
+            "\/home\/canidigi\/alphawaytech\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [
+                    "\/home\/canidigi\/alphawaytech\/wp-snapshots",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/backups-dup-lite",
+                    "\/home\/canidigi\/alphawaytech\/.opcache",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/backups-dup-pro",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/ai1wm-backups",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/backupwordpress",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/content\/cache",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/contents\/cache",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/infinitewp\/backups",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/managewp\/backups",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/old-cache",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/updraft",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/wishlist-backup",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/wfcache",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/bps-backup",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/cache",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/aiowps_backups",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/backupbuddy_temp",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/backupbuddy_backups",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/ithemes-security\/backups",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/mainwp\/backup",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/pb_backupbuddy",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/snapshots",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/sucuri",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/wp-clone",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/wp_all_backup",
+                    "\/home\/canidigi\/alphawaytech\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store",
+                    "\/home\/canidigi\/alphawaytech\/.htaccess",
+                    "\/home\/canidigi\/alphawaytech\/wp-config.php"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateProcFuncStatus": "Good",
+            "showCreateProcFunc": true,
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Good",
+            "Triggers": "Good",
+            "mysqlDumpMemoryCheck": true,
+            "requiredMysqlDumpLimit": "57.33MB"
+        },
+        "Size": 7682982,
+        "Rows": 19871,
+        "TableCount": 55,
+        "TableList": {
+            "wp_actionscheduler_actions": {
+                "Case": 0,
+                "Rows": "17",
+                "Size": "23.99KB",
+                "USize": "24564"
+            },
+            "wp_actionscheduler_claims": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "3.03KB",
+                "USize": "3100"
+            },
+            "wp_actionscheduler_groups": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "9.07KB",
+                "USize": "9284"
+            },
+            "wp_actionscheduler_logs": {
+                "Case": 0,
+                "Rows": "49",
+                "Size": "7.68KB",
+                "USize": "7868"
+            },
+            "wp_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "4KB",
+                "USize": "4096"
+            },
+            "wp_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_duplicator_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "29.45KB",
+                "USize": "30152"
+            },
+            "wp_icl_background_task": {
+                "Case": 0,
+                "Rows": "131",
+                "Size": "13.33KB",
+                "USize": "13652"
+            },
+            "wp_icl_content_status": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_icl_core_status": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_icl_flags": {
+                "Case": 0,
+                "Rows": "65",
+                "Size": "4.29KB",
+                "USize": "4388"
+            },
+            "wp_icl_languages": {
+                "Case": 0,
+                "Rows": "65",
+                "Size": "11.05KB",
+                "USize": "11316"
+            },
+            "wp_icl_languages_translations": {
+                "Case": 0,
+                "Rows": "4,225",
+                "Size": "222.64KB",
+                "USize": "227984"
+            },
+            "wp_icl_locale_map": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "2.04KB",
+                "USize": "2088"
+            },
+            "wp_icl_message_status": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_icl_node": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_icl_reminders": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_icl_strings": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "4KB",
+                "USize": "4096"
+            },
+            "wp_icl_string_positions": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_icl_string_status": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_icl_string_translations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_icl_translate": {
+                "Case": 0,
+                "Rows": "295",
+                "Size": "511.87KB",
+                "USize": "524152"
+            },
+            "wp_icl_translate_job": {
+                "Case": 0,
+                "Rows": "37",
+                "Size": "6.81KB",
+                "USize": "6976"
+            },
+            "wp_icl_translations": {
+                "Case": 0,
+                "Rows": "1,746",
+                "Size": "245.3KB",
+                "USize": "251188"
+            },
+            "wp_icl_translation_batches": {
+                "Case": 0,
+                "Rows": "10",
+                "Size": "2.61KB",
+                "USize": "2672"
+            },
+            "wp_icl_translation_downloads": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_icl_translation_status": {
+                "Case": 0,
+                "Rows": "717",
+                "Size": "271.73KB",
+                "USize": "278248"
+            },
+            "wp_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_litespeed_img_optm": {
+                "Case": 0,
+                "Rows": "295",
+                "Size": "35.5KB",
+                "USize": "36352"
+            },
+            "wp_litespeed_img_optming": {
+                "Case": 0,
+                "Rows": "1,453",
+                "Size": "195.44KB",
+                "USize": "200128"
+            },
+            "wp_litespeed_url": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "4KB",
+                "USize": "4096"
+            },
+            "wp_litespeed_url_file": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "1KB",
+                "USize": "1024"
+            },
+            "wp_options": {
+                "Case": 0,
+                "Rows": "526",
+                "Size": "1.59MB",
+                "USize": "1667208"
+            },
+            "wp_pmxi_files": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_pmxi_hash": {
+                "Case": 0,
+                "Rows": "73",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_pmxi_history": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_pmxi_images": {
+                "Case": 0,
+                "Rows": "19",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_pmxi_imports": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_pmxi_posts": {
+                "Case": 0,
+                "Rows": "73",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_pmxi_templates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_postmeta": {
+                "Case": 0,
+                "Rows": "5,879",
+                "Size": "1.86MB",
+                "USize": "1946336"
+            },
+            "wp_posts": {
+                "Case": 0,
+                "Rows": "1,752",
+                "Size": "1.63MB",
+                "USize": "1714144"
+            },
+            "wp_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "4KB",
+                "USize": "4096"
+            },
+            "wp_terms": {
+                "Case": 0,
+                "Rows": "130",
+                "Size": "39.59KB",
+                "USize": "40544"
+            },
+            "wp_term_relationships": {
+                "Case": 0,
+                "Rows": "654",
+                "Size": "47.54KB",
+                "USize": "48676"
+            },
+            "wp_term_taxonomy": {
+                "Case": 0,
+                "Rows": "130",
+                "Size": "15.43KB",
+                "USize": "15800"
+            },
+            "wp_usermeta": {
+                "Case": 0,
+                "Rows": "74",
+                "Size": "25.3KB",
+                "USize": "25912"
+            },
+            "wp_users": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "8.12KB",
+                "USize": "8316"
+            },
+            "wp_wpmailsmtp_debug_events": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp_wpmailsmtp_tasks_meta": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "2.26KB",
+                "USize": "2312"
+            },
+            "wp_yoast_indexable": {
+                "Case": 0,
+                "Rows": "296",
+                "Size": "206.32KB",
+                "USize": "211276"
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "Case": 0,
+                "Rows": "294",
+                "Size": "31.28KB",
+                "USize": "32026"
+            },
+            "wp_yoast_migrations": {
+                "Case": 0,
+                "Rows": "24",
+                "Size": "9.56KB",
+                "USize": "9792"
+            },
+            "wp_yoast_primary_term": {
+                "Case": 0,
+                "Rows": "75",
+                "Size": "11.81KB",
+                "USize": "12092"
+            },
+            "wp_yoast_seo_links": {
+                "Case": 0,
+                "Rows": "759",
+                "Size": "136.07KB",
+                "USize": "139332"
+            }
+        },
+        "RawSize": 7682982,
+        "EasySize": "7.33MB"
+    },
+    "LL": {
+        "TotalSize": "7.33MB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}
